@@ -51,7 +51,7 @@ func (s *Session) selectElevator(p *Person) *Elevator {
 		if sign(distance) != e.Direction {
 			initialSpeed = 0
 		}
-		// Для minimum_wait оцениваем прямое время до посадки; задержку до будущего ручного «Ход» предсказать нельзя.
+		// Для minimum_wait оцениваем прямое время до посадки с учётом разгона и возможного разворота.
 		eta := travelTime(distance, initialSpeed, e.Config.MaxSpeed, e.Config.Acceleration)
 		// Для minimum_empty время до вызова учитывает обслуживание целей по текущему направлению.
 		if s.Config.Strategy == MinimumEmpty && len(e.Route) > 0 {
@@ -129,20 +129,9 @@ func (s *Session) dispatch() {
 		if len(e.Route) > 0 && sign(floorPosition(s.nextFloor(e))-e.Position) == 0 {
 			s.arrive(e, e.Route[0])
 		}
-		if !e.Moving && len(e.Route) > 0 && s.hasAutomaticCall(e) {
+		// Моделируем нажатие «Ход» для любого вызова, независимо от способа создания людей.
+		if !e.Moving && len(e.Route) > 0 {
 			e.Moving, e.DoorsOpen = true, false
 		}
 	}
-}
-
-func (s *Session) hasAutomaticCall(e *Elevator) bool {
-	// Сценарий имитирует «Ход» и при подаче пустой кабины, и после посадки.
-	// Признак хранится у человека, чтобы сработать и после ожидания свободного места;
-	// доставленные и эвакуируемые люди не запускают последующие ручные поездки.
-	for _, p := range s.People {
-		if p.automaticGo && p.ElevatorID == e.ID && (p.Status == "waiting" || p.Status == "riding") {
-			return true
-		}
-	}
-	return false
 }

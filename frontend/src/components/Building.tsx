@@ -22,7 +22,7 @@ export function Building({ session, onCommand, onFloor, busy }: { session: Sessi
             <span>{elevator.moving && session.state === 'running' ? elevator.direction === -1 ? '↓' : '↑' : '•'}</span>
           </div>
         </div>
-        {/* Кнопка передаёт go в общий обработчик API; наличие маршрута само по себе не запускает кабину. */}
+        {/* Кнопка передаёт go в API; обычные вызовы также запускают кабину автоматически в работающей симуляции. */}
         {/* Рисуем кнопку «Ход» для лифта. */}
         <button className="go-button" disabled={busy || session.state !== 'running' || session.fire || elevator.moving || elevator.route.length === 0} onClick={() => onCommand({ type: 'go', elevator_id: elevator.id })}>Ход ↑↓</button>
         <div className="route-label">{elevator.route.length ? elevator.route.join(' → ') : 'Нет маршрута'}</div>

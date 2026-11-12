@@ -42,10 +42,6 @@ func (s *Session) Configure(config Config, scenario Scenario) error {
 }
 
 func (s *Session) AddPeople(input PeopleInput) error {
-	return s.addPeople(input, false)
-}
-
-func (s *Session) addPeople(input PeopleInput, automaticGo bool) error {
 	if err := input.Validate(s.Config.Floors); err != nil {
 		return err
 	}
@@ -55,7 +51,7 @@ func (s *Session) addPeople(input PeopleInput, automaticGo bool) error {
 	for range input.Count {
 		s.nextPersonID++
 		// Создание включает немедленное нажатие пульта; ожидание отсчитывается от этого модельного времени.
-		p := &Person{ID: s.nextPersonID, From: input.From, To: input.To, CalledAt: s.Time, Status: "waiting", automaticGo: automaticGo}
+		p := &Person{ID: s.nextPersonID, From: input.From, To: input.To, CalledAt: s.Time, Status: "waiting"}
 		if s.Fire {
 			p.Status = "evacuating"
 			t := s.Time
@@ -251,7 +247,7 @@ func (s *Session) processEvents() {
 		var err error
 		switch e.Type {
 		case "people":
-			err = s.addPeople(e.PeopleInput, true)
+			err = s.AddPeople(e.PeopleInput)
 		case "fire_on":
 			err = s.SetFire(true)
 		case "fire_off":

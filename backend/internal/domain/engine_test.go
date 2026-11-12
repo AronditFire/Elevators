@@ -21,18 +21,19 @@ func must(t *testing.T, err error) {
 	}
 }
 
-func TestGoPauseResumeAndStop(t *testing.T) {
+func TestAutomaticGoPauseResumeAndStop(t *testing.T) {
 	s := session(t, MinimumWait, 1)
 	must(t, s.AddPeople(PeopleInput{From: 1, To: 10, Count: 1}))
 	must(t, s.Start())
-	s.Advance(5)
-	if s.Elevators[0].Moving || s.Elevators[0].Position != 0 {
-		t.Fatal("stationary elevator moved without Go")
+	if !s.Elevators[0].Moving {
+		t.Fatal("manual creation did not automatically start the elevator")
 	}
 	if s.Stop() == nil {
 		t.Fatal("occupied elevator may not stop system")
 	}
-	must(t, s.Go(1))
+	if s.Go(1) == nil {
+		t.Fatal("Go accepted for an already moving elevator")
+	}
 	s.Advance(1)
 	position, now := s.Elevators[0].Position, s.Time
 	must(t, s.Pause())
@@ -64,7 +65,6 @@ func TestMinimumWaitKeepsOldDeliveryBeforeNewDestination(t *testing.T) {
 	s := session(t, MinimumWait, 1)
 	must(t, s.Start())
 	must(t, s.AddPeople(PeopleInput{From: 1, To: 10, Count: 1}))
-	must(t, s.Go(1))
 	s.Advance(1)
 	must(t, s.AddPeople(PeopleInput{From: 6, To: 2, Count: 1}))
 	if s.Elevators[0].Route[0] != 6 {
@@ -87,7 +87,6 @@ func TestMinimumEmptyServesAheadThenBehind(t *testing.T) {
 	s := session(t, MinimumEmpty, 6)
 	must(t, s.Start())
 	must(t, s.AddPeople(PeopleInput{From: 6, To: 10, Count: 1}))
-	must(t, s.Go(1))
 	s.Advance(1)
 	must(t, s.AddPeople(PeopleInput{From: 1, To: 2, Count: 1}))
 	s.Advance(.1)
@@ -104,14 +103,12 @@ func TestEmptyAndLoadedSegmentsAreOneTrip(t *testing.T) {
 	s := session(t, MinimumEmpty, 1)
 	must(t, s.Start())
 	must(t, s.AddPeople(PeopleInput{From: 6, To: 10, Count: 1}))
-	must(t, s.Go(1))
 	s.Advance(30)
 	e := s.Elevators[0]
 	if e.Trips != 1 || e.EmptyTrips != 0 {
 		t.Fatalf("empty and loaded segments counted separately: %+v", e)
 	}
 	must(t, s.AddPeople(PeopleInput{From: 10, To: 1, Count: 1}))
-	must(t, s.Go(1))
 	s.Advance(30)
 	if e.Trips != 2 {
 		t.Fatal("reversal after idle not counted")
@@ -188,12 +185,13 @@ func TestCapacityAndWaitingAtStop(t *testing.T) {
 		t.Fatal("stop removed waiting people")
 	}
 	must(t, s.Start())
-	must(t, s.Go(1))
 	s.Advance(20)
 	if s.Statistics.Transported != 1 {
 		t.Fatalf("capacity violated: %+v", s.Statistics)
 	}
-	must(t, s.Go(1))
+	if !s.Elevators[0].Moving {
+		t.Fatal("next passenger requires manual Go")
+	}
 	s.Advance(25)
 	if s.Statistics.Transported != 2 || s.Statistics.WaitCount != 2 {
 		t.Fatal("unassigned passenger lost")
@@ -204,7 +202,6 @@ func TestMotionMatchesAnalyticTime(t *testing.T) {
 	s := session(t, MinimumWait, 1)
 	must(t, s.Start())
 	must(t, s.AddPeople(PeopleInput{From: 1, To: 10, Count: 1}))
-	must(t, s.Go(1))
 	timeToFloor := travelTime(27, 0, 3, 1)
 	s.Advance(timeToFloor - .1)
 	if s.People[0].Status != "riding" {

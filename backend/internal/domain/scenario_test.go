@@ -48,15 +48,15 @@ func TestScenarioGroupLargerThanCapacityNeedsNoManualGo(t *testing.T) {
 	}
 }
 
-func TestManualCallDoesNotStartAutomaticallyAfterScenario(t *testing.T) {
+func TestManualCallStartsAutomaticallyAfterScenario(t *testing.T) {
 	s := session(t, MinimumWait, 1)
 	s.Scenario.Events = []ScenarioEvent{{At: 0, Type: "people", PeopleInput: PeopleInput{From: 1, To: 3, Count: 1}}}
 	must(t, s.Start())
 	s.Advance(4)
 	must(t, s.AddPeople(PeopleInput{From: 3, To: 5, Count: 1}))
 	s.Advance(5)
-	if s.Elevators[0].Moving || s.Elevators[0].Position != floorPosition(3) {
-		t.Fatal("a manual call inherited automatic Go from the completed scenario")
+	if s.Statistics.Transported != 2 || s.Elevators[0].Position != floorPosition(5) {
+		t.Fatal("manual call after the scenario requires intervention")
 	}
 }
 

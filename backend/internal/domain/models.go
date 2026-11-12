@@ -28,15 +28,14 @@ const (
 )
 
 type Person struct {
-	ID          int      `json:"id"`
-	From        int      `json:"from"`
-	To          int      `json:"to"`
-	Status      string   `json:"status"`
-	ElevatorID  int      `json:"elevator_id"`
-	CalledAt    float64  `json:"called_at"`
-	BoardedAt   *float64 `json:"boarded_at"`
-	FinishedAt  *float64 `json:"finished_at"`
-	automaticGo bool
+	ID         int      `json:"id"`
+	From       int      `json:"from"`
+	To         int      `json:"to"`
+	Status     string   `json:"status"`
+	ElevatorID int      `json:"elevator_id"`
+	CalledAt   float64  `json:"called_at"`
+	BoardedAt  *float64 `json:"boarded_at"`
+	FinishedAt *float64 `json:"finished_at"`
 }
 
 type Elevator struct {
