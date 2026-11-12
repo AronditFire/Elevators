@@ -1,0 +1,11 @@
+floors: 10
+strategy: minimum_wait
+elevators:
+  - capacity: 6
+    max_speed: 2
+    acceleration: 1
+    initial_floor: 1
+  - capacity: 8
+    max_speed: 3
+    acceleration: 1.2
+    initial_floor: 5

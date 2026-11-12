@@ -1,0 +1,15 @@
+events:
+  - at: 3
+    type: people
+    from: 1
+    to: 10
+    count: 10
+  - at: 7
+    type: fire_on
+  - at: 15
+    type: fire_off
+  - at: 20
+    type: people
+    from: 6
+    to: 2
+    count: 3

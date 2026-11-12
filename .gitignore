@@ -1,0 +1,11 @@
+.idea/
+.env
+node_modules/
+dist/
+.cache/
+*.exe
+coverage.out
+backend/bin/
+frontend/test-results/
+frontend/playwright-report/
+*.tsbuildinfo

@@ -1,0 +1,361 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2220" height="4340" viewBox="0 0 2220 4340"><rect width="100%" height="100%" fill="white"/>
+<rect x="60" y="100" width="480" height="4220" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="60" y="100" width="480" height="60" fill="#f0f0f0" stroke="#222" stroke-width="2"/>
+<rect x="540" y="100" width="580" height="4220" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="540" y="100" width="580" height="60" fill="#f0f0f0" stroke="#222" stroke-width="2"/>
+<rect x="1120" y="100" width="1000" height="4220" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1120" y="100" width="1000" height="60" fill="#f0f0f0" stroke="#222" stroke-width="2"/>
+<polyline points="300.0,208 300.0,218" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="296.10581657691347,208.78939005997114 300.0,218 303.89418342308653,208.78939005997114" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="300.0,242 300.0,250" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="296.10581657691347,240.78939005997114 300.0,250 303.89418342308653,240.78939005997114" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="475,290.0 655,295.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="645.6848114279848,298.6369302808546 655,295.0 645.901071533895,290.8515664680865" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,340 820.0,395" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,385.78939005997114 820.0,395 823.8941834230865,385.78939005997114" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="725,445.0 475,442.5" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="484.24908933135396,438.6981127659234 475,442.5 484.1712095567836,446.486090222958" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="125,442.5 95,442 95,230 288,230.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="278.78939005997114,233.8941834230865 288,230.0 278.78939005997114,226.1058165769135" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,495 820,505 520,505 520,517 312,517.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="321.21060994002886,513.1058165769135 312,517.0 321.21060994002886,520.8941834230865" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="300.0,529 300.0,550" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="296.10581657691347,540.7893900599712 300.0,550 303.89418342308653,540.7893900599712" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="475,600.0 655,600.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="645.7893900599712,603.8941834230865 655,600.0 645.7893900599712,596.1058165769135" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,650 820.0,700" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,690.7893900599712 820.0,700 823.8941834230865,690.7893900599712" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="715,755.0 475,755.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="484.21060994002886,751.1058165769135 475,755.0 484.21060994002886,758.8941834230865" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="125,755.0 95,755 95,517 288,517.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="278.78939005997114,520.8941834230865 288,517.0 278.78939005997114,513.1058165769135" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,810 820.0,850" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,840.7893900599712 820.0,850 823.8941834230865,840.7893900599712" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="725,902.5 510,902 510,827 312,827.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="321.21060994002886,823.1058165769135 312,827.0 321.21060994002886,830.8941834230865" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="300.0,839 300.0,850" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="296.10581657691347,840.7893900599712 300.0,850 303.89418342308653,840.7893900599712" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="475,975 500,975 500,1055 655,1055.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="645.7893900599712,1058.8941834230866 655,1055.0 645.7893900599712,1051.1058165769134" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,1100 820.0,1140" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,1130.789390059971 820.0,1140 823.8941834230865,1130.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="725,1192.5 475,1190.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="484.24908933135396,1186.1981127659233 475,1190.0 484.1712095567836,1193.986090222958" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="125,1190.0 95,1190 95,827 288,827.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="278.78939005997114,830.8941834230865 288,827.0 278.78939005997114,823.1058165769135" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,1245 820.0,1310" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,1300.789390059971 820.0,1310 823.8941834230865,1300.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="915,902.5 1140,902 1140,1330 840,1330.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="849.2106099400288,1326.1058165769134 840,1330.0 849.2106099400288,1333.8941834230866" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,1350 820.0,1410" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,1400.789390059971 820.0,1410 823.8941834230865,1400.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,1520 820.0,1580" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,1570.789390059971 820.0,1580 823.8941834230865,1570.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="920,1635.0 1230,1637.5" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1220.7582858740627,1641.3197801002743 1230,1637.5 1220.8210932417626,1633.5316665054986" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1360.0,1695 1385.0,1720" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1375.7335117468926,1716.24071875819 1385.0,1720 1381.24071875819,1710.7335117468926" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,1690 820.0,1790" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,1780.789390059971 820.0,1790 823.8941834230865,1780.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="920,1845.0 1570,1845 1570,1817 1600,1817.5" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1590.7257750002873,1821.240153827679 1600,1817.5 1590.8555630895182,1813.4528684738177" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,1900 820.0,2000" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,1990.789390059971 820.0,2000 823.8941834230865,1990.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="920,2055.0 1230,2057.5" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1220.7582858740627,2061.3197801002743 1230,2057.5 1220.8210932417626,2053.5316665054984" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,2110 820.0,2220" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,2210.789390059971 820.0,2220 823.8941834230865,2210.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="930,2280.0 1230,2280.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1220.789390059971,2283.8941834230864 1230,2280.0 1220.789390059971,2276.1058165769136" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,2340 820.0,2460" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,2450.789390059971 820.0,2460 823.8941834230865,2450.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="715,2515.0 620,2515 620,2685 655,2685.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="645.7893900599712,2688.8941834230864 655,2685.0 645.7893900599712,2681.1058165769136" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="925,2515.0 1030,2515 1030,2760 820,2760 820.0,2810" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,2800.789390059971 820.0,2810 823.8941834230865,2800.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="985,2862.5 1100,2862 1100,2740 1600,2740 1600.0,2800" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1596.1058165769134,2790.789390059971 1600.0,2800 1603.8941834230866,2790.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1490,2860.0 1330,2860 1330.0,2990" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1326.1058165769134,2980.789390059971 1330.0,2990 1333.8941834230866,2980.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1330.0,3090 1330.0,3140" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1326.1058165769134,3130.789390059971 1330.0,3140 1333.8941834230866,3130.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1220,3190.0 1140,3190 1140,3260 1275,3260 1275.0,3300" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1271.1058165769134,3290.789390059971 1275.0,3300 1278.8941834230866,3290.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1440,3190.0 1580,3190 1580.0,3300" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1576.1058165769134,3290.789390059971 1580.0,3300 1583.8941834230866,3290.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1275.0,3390 1275,3478 1390,3478.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1380.789390059971,3481.8941834230864 1390,3478.0 1380.789390059971,3474.1058165769136" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1580.0,3415 1580,3478 1426,3478.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1435.210609940029,3474.1058165769136 1426,3478.0 1435.210609940029,3481.8941834230864" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1710,2860.0 1900,2860 1900.0,2990" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1896.1058165769134,2980.789390059971 1900.0,2990 1903.8941834230866,2980.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1900.0,3100 1900.0,3140" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1896.1058165769134,3130.789390059971 1900.0,3140 1903.8941834230866,3130.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1900.0,3255 1900.0,3300" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1896.1058165769134,3290.789390059971 1900.0,3300 1903.8941834230866,3290.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1540,1755.0 2090,1755.0 2090,3560 840,3560.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="849.2106099400288,3556.1058165769136 840,3560.0 849.2106099400288,3563.8941834230864" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="2040,1817.5 2090,1817.5 2090,3560 840,3560.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="849.2106099400288,3556.1058165769136 840,3560.0 849.2106099400288,3563.8941834230864" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="2040,2057.5 2090,2057.5 2090,3560 840,3560.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="849.2106099400288,3556.1058165769136 840,3560.0 849.2106099400288,3563.8941834230864" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="2040,2280.0 2090,2280.0 2090,3560 840,3560.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="849.2106099400288,3556.1058165769136 840,3560.0 849.2106099400288,3563.8941834230864" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="655,2685.0 620,2685 620,3560 800,3560.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="790.7893900599712,3563.8941834230864 800,3560.0 790.7893900599712,3556.1058165769136" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1408.0,3496 1408,3500 820,3500 820.0,3540" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,3530.789390059971 820.0,3540 823.8941834230865,3530.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1900.0,3435 1900,3520 820,3520 820.0,3540" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,3530.789390059971 820.0,3540 823.8941834230865,3530.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,3580 820.0,3640" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,3630.789390059971 820.0,3640 823.8941834230865,3630.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="655,3695.0 475,3700.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="484.098928466105,3695.8515664680867 475,3700.0 484.31518857201524,3703.636930280855" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="125,3700.0 80,3700 80,1330 800,1330.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="790.7893900599712,1333.8941834230866 800,1330.0 790.7893900599712,1326.1058165769134" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="1490,1637.5 2150,1637 2150,3895 985,3895.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="994.2106099400288,3891.1058165769136 985,3895.0 994.2106099400288,3898.8941834230864" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="820.0,3940 820.0,4000" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="816.1058165769135,3990.789390059971 820.0,4000 823.8941834230865,3990.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="655,4045.0 475,4045.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="484.21060994002886,4041.1058165769136 475,4045.0 484.21060994002886,4048.8941834230864" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="300.0,4090 300.0,4150" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="296.10581657691347,4140.789390059971 300.0,4150 303.89418342308653,4140.789390059971" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="215,4200.0 40,4200 40,1330 800,1330.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="790.7893900599712,1333.8941834230866 800,1330.0 790.7893900599712,1326.1058165769134" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="385,4200.0 480,4200.0" fill="none" stroke="#222" stroke-width="2"/>
+<polyline points="470.78939005997114,4203.894183423086 480,4200.0 470.78939005997114,4196.105816576914" fill="none" stroke="#222" stroke-width="2"/>
+<ellipse cx="300.0" cy="194.0" rx="14.0" ry="14.0" fill="#111" stroke="#222" stroke-width="2"/>
+<polygon points="300.0,218 312,230.0 300.0,242 288,230.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="125" y="250" width="350" height="80" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="655" y="250" width="330" height="90" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="820.0,395 915,445.0 820.0,495 725,445.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="125" y="400" width="350" height="85" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="300.0,505 312,517.0 300.0,529 288,517.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="125" y="550" width="350" height="100" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="655" y="550" width="330" height="100" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="820.0,700 925,755.0 820.0,810 715,755.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="125" y="710" width="350" height="90" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="820.0,850 915,902.5 820.0,955 725,902.5" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="125" y="850" width="350" height="125" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="300.0,815 312,827.0 300.0,839 288,827.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="655" y="1010" width="330" height="90" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="820.0,1140 915,1192.5 820.0,1245 725,1192.5" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="125" y="1145" width="350" height="90" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="820.0,1310 840,1330.0 820.0,1350 800,1330.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="655" y="1410" width="330" height="110" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="820.0,1580 920,1635.0 820.0,1690 720,1635.0" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="1360.0,1580 1490,1637.5 1360.0,1695 1230,1637.5" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1230" y="1720" width="310" height="70" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="820.0,1790 920,1845.0 820.0,1900 720,1845.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1600" y="1760" width="440" height="115" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="820.0,2000 920,2055.0 820.0,2110 720,2055.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1230" y="2000" width="810" height="115" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="820.0,2220 930,2280.0 820.0,2340 710,2280.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1230" y="2220" width="810" height="120" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="820.0,2460 925,2515.0 820.0,2570 715,2515.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="655" y="2640" width="330" height="90" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="655" y="2810" width="330" height="105" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="1600.0,2800 1710,2860.0 1600.0,2920 1490,2860.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1160" y="2990" width="340" height="100" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="1330.0,3140 1440,3190.0 1330.0,3240 1220,3190.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1150" y="3300" width="250" height="90" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1450" y="3300" width="260" height="115" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="1408.0,3460 1426,3478.0 1408.0,3496 1390,3478.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1750" y="2990" width="300" height="110" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1750" y="3140" width="300" height="115" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="1750" y="3300" width="300" height="135" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="820.0,3540 840,3560.0 820.0,3580 800,3560.0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="655" y="3640" width="330" height="110" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="125" y="3650" width="350" height="100" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="655" y="3850" width="330" height="90" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="655" y="4000" width="330" height="90" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="125" y="4000" width="350" height="90" rx="14" fill="white" stroke="#222" stroke-width="2"/>
+<polygon points="300.0,4150 385,4200.0 300.0,4250 215,4200.0" fill="white" stroke="#222" stroke-width="2"/>
+<ellipse cx="494.0" cy="4200.0" rx="14.0" ry="14.0" fill="white" stroke="#222" stroke-width="2"/>
+<ellipse cx="494.0" cy="4200.0" rx="9.0" ry="9.0" fill="#111"/>
+<polygon points="1210,200 2000,200 2020,220 2020,545 1210,545" fill="white" stroke="#222" stroke-width="2"/>
+<polyline points="2000,200 2000,220 2020,220" fill="none" stroke="#222" stroke-width="2"/>
+<polygon points="1210,625 2000,625 2020,645 2020,955 1210,955" fill="white" stroke="#222" stroke-width="2"/>
+<polyline points="2000,625 2000,645 2020,645" fill="none" stroke="#222" stroke-width="2"/>
+<polygon points="1210,1035 2000,1035 2020,1055 2020,1370 1210,1370" fill="white" stroke="#222" stroke-width="2"/>
+<polyline points="2000,1035 2000,1055 2020,1055" fill="none" stroke="#222" stroke-width="2"/>
+<text x="128.0" y="137.92000000000002" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#111">Пользователь / администратор</text>
+<text x="761.5" y="137.92000000000002" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#111">Приложение</text>
+<text x="1479.0" y="137.92000000000002" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#111">Лифты и люди — модель</text>
+<text x="60" y="59.08" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#111">Диаграмма деятельности — проведение сеанса симуляции</text>
+<text x="204.0" y="296.48" font-family="Arial, sans-serif" font-size="18" fill="#111">Ввести логин и пароль</text>
+<text x="707.5" y="289.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Проверить учётную запись</text>
+<text x="740.5" y="313.0" font-family="Arial, sans-serif" font-size="18" fill="#111">и определить роль</text>
+<text x="787.5" y="439.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Данные</text>
+<text x="788.5" y="463.0" font-family="Arial, sans-serif" font-size="18" fill="#111">верны?</text>
+<text x="201.5" y="448.98" font-family="Arial, sans-serif" font-size="18" fill="#111">Показать ошибку входа</text>
+<text x="161.0" y="594.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Создать или открыть свой сеанс;</text>
+<text x="142.5" y="618.0" font-family="Arial, sans-serif" font-size="18" fill="#111">администратор может выбрать чужой</text>
+<text x="711.5" y="594.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Проверить права доступа</text>
+<text x="730.5" y="618.0" font-family="Arial, sans-serif" font-size="18" fill="#111">к выбранному сеансу</text>
+<text x="791.0" y="749.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Доступ</text>
+<text x="774.0" y="773.0" font-family="Arial, sans-serif" font-size="18" fill="#111">разрешён?</text>
+<text x="194.0" y="761.48" font-family="Arial, sans-serif" font-size="18" fill="#111">Показать отказ в доступе</text>
+<text x="776.0" y="897.46" font-family="Arial, sans-serif" font-size="18" fill="#111">Сеанс уже</text>
+<text x="786.0" y="920.5" font-family="Arial, sans-serif" font-size="18" fill="#111">создан?</text>
+<text x="161.5" y="884.42" font-family="Arial, sans-serif" font-size="18" fill="#111">Ввести параметры или загрузить</text>
+<text x="273.0078125" y="907.4599999999999" font-family="Arial, sans-serif" font-size="18" fill="#111">YAML;</text>
+<text x="217.0" y="930.5" font-family="Arial, sans-serif" font-size="18" fill="#111">выбрать стратегию;</text>
+<text x="159.0" y="953.54" font-family="Arial, sans-serif" font-size="18" fill="#111">задать / импортировать сценарий</text>
+<text x="711.0" y="1049.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Проверить конфигурацию</text>
+<text x="753.5" y="1073.0" font-family="Arial, sans-serif" font-size="18" fill="#111">и создать сеанс</text>
+<text x="759.5" y="1187.46" font-family="Arial, sans-serif" font-size="18" fill="#111">Конфигурация</text>
+<text x="773.0" y="1210.5" font-family="Arial, sans-serif" font-size="18" fill="#111">корректна?</text>
+<text x="183.5" y="1196.48" font-family="Arial, sans-serif" font-size="18" fill="#111">Показать ошибки настройки</text>
+<text x="694.0" y="1448.44" font-family="Arial, sans-serif" font-size="18" fill="#111">Получить очередную команду</text>
+<text x="701.0" y="1471.48" font-family="Arial, sans-serif" font-size="18" fill="#111">пользователя либо событие</text>
+<text x="684.5" y="1494.52" font-family="Arial, sans-serif" font-size="18" fill="#111">сценария / модельного времени</text>
+<text x="783.5" y="1629.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Команда</text>
+<text x="756.0" y="1653.0" font-family="Arial, sans-serif" font-size="18" fill="#111">«Остановить»?</text>
+<text x="1281.5" y="1632.46" font-family="Arial, sans-serif" font-size="18" fill="#111">Все лифты пустые</text>
+<text x="1292.0" y="1655.5" font-family="Arial, sans-serif" font-size="18" fill="#111">и остановлены?</text>
+<text x="1294.0" y="1749.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Отклонить остановку;</text>
+<text x="1308.0" y="1773.0" font-family="Arial, sans-serif" font-size="18" fill="#111">продолжить сеанс</text>
+<text x="758.0" y="1839.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Старт / Пауза /</text>
+<text x="759.5078125" y="1863.0" font-family="Arial, sans-serif" font-size="18" fill="#111">Темп / «Ход»?</text>
+<text x="1624.0078125" y="1789.42" font-family="Arial, sans-serif" font-size="18" fill="#111">Применить старт / возобновление, паузу, темп</text>
+<text x="1775.5" y="1812.46" font-family="Arial, sans-serif" font-size="18" fill="#111">или «Ход»</text>
+<text x="1654.0" y="1835.5" font-family="Arial, sans-serif" font-size="18" fill="#111">с проверкой состояния; возобновление</text>
+<text x="1750.5" y="1858.54" font-family="Arial, sans-serif" font-size="18" fill="#111">сохраняет сеанс</text>
+<text x="779.0" y="2049.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Создание</text>
+<text x="787.0" y="2073.0" font-family="Arial, sans-serif" font-size="18" fill="#111">людей?</text>
+<text x="1452.0" y="2040.94" font-family="Arial, sans-serif" font-size="18" fill="#111">Создать людей в любом состоянии сеанса.</text>
+<text x="1483.5" y="2063.98" font-family="Arial, sans-serif" font-size="18" fill="#111">При тревоге — эвакуация через 3 с;</text>
+<text x="1411.5078125" y="2087.02" font-family="Arial, sans-serif" font-size="18" fill="#111">иначе выбор целевого этажа на пульте в течение 3 с</text>
+<text x="768.0" y="2263.44" font-family="Arial, sans-serif" font-size="18" fill="#111">Включение /</text>
+<text x="767.5" y="2286.48" font-family="Arial, sans-serif" font-size="18" fill="#111">выключение</text>
+<text x="782.5" y="2309.52" font-family="Arial, sans-serif" font-size="18" fill="#111">тревоги?</text>
+<text x="1459.0078125" y="2263.44" font-family="Arial, sans-serif" font-size="18" fill="#111">Включить / выключить пожарную тревогу.</text>
+<text x="1394.0" y="2286.48" font-family="Arial, sans-serif" font-size="18" fill="#111">Включение на паузе отклонить. При включении отменить</text>
+<text x="1370.5" y="2309.52" font-family="Arial, sans-serif" font-size="18" fill="#111">обычные заявки; при выключении вернуться к обычной работе</text>
+<text x="794.0" y="2509.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Сеанс</text>
+<text x="777.0" y="2533.0" font-family="Arial, sans-serif" font-size="18" fill="#111">работает?</text>
+<text x="705.0" y="2679.96" font-family="Arial, sans-serif" font-size="18" fill="#111">На паузе / после остановки</text>
+<text x="691.5" y="2703.0" font-family="Arial, sans-serif" font-size="18" fill="#111">модельное время не изменять</text>
+<text x="692.5" y="2845.94" font-family="Arial, sans-serif" font-size="18" fill="#111">Продвинуть модельное время</text>
+<text x="728.0" y="2868.98" font-family="Arial, sans-serif" font-size="18" fill="#111">с выбранным темпом;</text>
+<text x="695.0" y="2892.02" font-family="Arial, sans-serif" font-size="18" fill="#111">выполнить события сценария</text>
+<text x="1566.0078125" y="2854.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Тревога</text>
+<text x="1562.0" y="2878.0" font-family="Arial, sans-serif" font-size="18" fill="#111">активна?</text>
+<text x="1209.0" y="3034.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Назначить / скорректировать</text>
+<text x="1182.0" y="3058.0" font-family="Arial, sans-serif" font-size="18" fill="#111">маршруты по выбранной стратегии</text>
+<text x="1260.0" y="3196.48" font-family="Arial, sans-serif" font-size="18" fill="#111">Лифт движется?</text>
+<text x="1192.0078125" y="3339.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Если есть маршрут,</text>
+<text x="1173.5" y="3363.0" font-family="Arial, sans-serif" font-size="18" fill="#111">ожидать нажатия «Ход»</text>
+<text x="1496.5" y="3329.42" font-family="Arial, sans-serif" font-size="18" fill="#111">Продвинуть кабину;</text>
+<text x="1479.0" y="3352.46" font-family="Arial, sans-serif" font-size="18" fill="#111">по прибытии — посадка</text>
+<text x="1498.5" y="3375.5" font-family="Arial, sans-serif" font-size="18" fill="#111">и высадка с учётом</text>
+<text x="1526.0" y="3398.54" font-family="Arial, sans-serif" font-size="18" fill="#111">вместимости</text>
+<text x="1794.5" y="3016.92" font-family="Arial, sans-serif" font-size="18" fill="#111">Направить все лифты на</text>
+<text x="1846.5" y="3039.96" font-family="Arial, sans-serif" font-size="18" fill="#111">первый этаж</text>
+<text x="1772.5" y="3063.0" font-family="Arial, sans-serif" font-size="18" fill="#111">без промежуточных остановок</text>
+<text x="1775.0" y="3086.04" font-family="Arial, sans-serif" font-size="18" fill="#111">и без ожидания кнопки «Ход»</text>
+<text x="1798.5" y="3169.42" font-family="Arial, sans-serif" font-size="18" fill="#111">При прибытии на этаж 1</text>
+<text x="1805.0" y="3192.46" font-family="Arial, sans-serif" font-size="18" fill="#111">высадить пассажиров;</text>
+<text x="1788.5" y="3215.5" font-family="Arial, sans-serif" font-size="18" fill="#111">держать двери открытыми</text>
+<text x="1802.0" y="3238.54" font-family="Arial, sans-serif" font-size="18" fill="#111">до отключения тревоги</text>
+<text x="1785.0" y="3339.42" font-family="Arial, sans-serif" font-size="18" fill="#111">Эвакуировать по лестнице:</text>
+<text x="1835.5078125" y="3362.46" font-family="Arial, sans-serif" font-size="18" fill="#111">с этажей сразу,</text>
+<text x="1796.5" y="3385.5" font-family="Arial, sans-serif" font-size="18" fill="#111">из кабин после высадки.</text>
+<text x="1794.0078125" y="3408.54" font-family="Arial, sans-serif" font-size="18" fill="#111">Удалить людей через 3 с</text>
+<text x="687.0" y="3666.92" font-family="Arial, sans-serif" font-size="18" fill="#111">Обновить статусы и статистику;</text>
+<text x="680.0" y="3689.96" font-family="Arial, sans-serif" font-size="18" fill="#111">доставленных удалить через 3 с.</text>
+<text x="719.0" y="3713.0" font-family="Arial, sans-serif" font-size="18" fill="#111">Показать время и число</text>
+<text x="729.5" y="3736.04" font-family="Arial, sans-serif" font-size="18" fill="#111">перевезённых людей</text>
+<text x="204.0078125" y="3683.44" font-family="Arial, sans-serif" font-size="18" fill="#111">Наблюдать состояние;</text>
+<text x="173.0" y="3706.48" font-family="Arial, sans-serif" font-size="18" fill="#111">при необходимости отправить</text>
+<text x="211.5" y="3729.52" font-family="Arial, sans-serif" font-size="18" fill="#111">следующую команду</text>
+<text x="691.0" y="3889.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Остановить модельное время;</text>
+<text x="700.5" y="3913.0" font-family="Arial, sans-serif" font-size="18" fill="#111">сохранить состояние сеанса</text>
+<text x="710.0" y="4039.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Сформировать и показать</text>
+<text x="734.0" y="4063.0" font-family="Arial, sans-serif" font-size="18" fill="#111">итоговую статистику</text>
+<text x="218.0" y="4039.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Просмотреть отчёт;</text>
+<text x="150.0" y="4063.0" font-family="Arial, sans-serif" font-size="18" fill="#111">при необходимости экспортировать</text>
+<text x="248.0" y="4194.96" font-family="Arial, sans-serif" font-size="18" fill="#111">Продолжить</text>
+<text x="251.0" y="4218.0" font-family="Arial, sans-serif" font-size="18" fill="#111">этот сеанс?</text>
+<text x="1224" y="291.58" font-family="Arial, sans-serif" font-size="17" fill="#111">Правила времени и управления</text>
+<text x="1224" y="313.34" font-family="Arial, sans-serif" font-size="17" fill="#111"></text>
+<text x="1224" y="335.09999999999997" font-family="Arial, sans-serif" font-size="17" fill="#111">Все интервалы измеряются в модельных секундах. Пауза замораживает время. Старт после</text>
+<text x="1224" y="356.86" font-family="Arial, sans-serif" font-size="17" fill="#111">остановки продолжает тот же сеанс.</text>
+<text x="1224" y="378.62" font-family="Arial, sans-serif" font-size="17" fill="#111"></text>
+<text x="1224" y="400.38" font-family="Arial, sans-serif" font-size="17" fill="#111">Неподвижная кабина с маршрутом ждёт «Ход»; движущаяся корректирует маршрут</text>
+<text x="1224" y="422.14" font-family="Arial, sans-serif" font-size="17" fill="#111">автоматически. При пожаре спуск автоматический.</text>
+<text x="1224" y="443.9" font-family="Arial, sans-serif" font-size="17" fill="#111"></text>
+<text x="1224" y="465.65999999999997" font-family="Arial, sans-serif" font-size="17" fill="#111">Человек выбирает этаж назначения в течение 3 с. Ожидание считается от вызова до посадки.</text>
+<text x="1224" y="709.08" font-family="Arial, sans-serif" font-size="17" fill="#111">Стратегии</text>
+<text x="1224" y="730.84" font-family="Arial, sans-serif" font-size="17" fill="#111"></text>
+<text x="1224" y="752.6" font-family="Arial, sans-serif" font-size="17" fill="#111">Минимум ожидания: новый вызов может прервать движение к прежней цели; после подбора лифт</text>
+<text x="1224" y="774.36" font-family="Arial, sans-serif" font-size="17" fill="#111">продолжает ранее назначенные доставки.</text>
+<text x="1224" y="796.12" font-family="Arial, sans-serif" font-size="17" fill="#111"></text>
+<text x="1224" y="817.8800000000001" font-family="Arial, sans-serif" font-size="17" fill="#111">Минимум холостых ходов: обслуживать попутные остановки, сохранять направление до</text>
+<text x="1224" y="839.6400000000001" font-family="Arial, sans-serif" font-size="17" fill="#111">завершения целей впереди.</text>
+<text x="1224" y="861.4000000000001" font-family="Arial, sans-serif" font-size="17" fill="#111"></text>
+<text x="1224" y="883.1600000000001" font-family="Arial, sans-serif" font-size="17" fill="#111">При выборе кабины учитывать свободные места и расчётное время движения до вызова.</text>
+<text x="1224" y="1121.58" font-family="Arial, sans-serif" font-size="17" fill="#111">Права и конфигурация</text>
+<text x="1224" y="1143.34" font-family="Arial, sans-serif" font-size="17" fill="#111"></text>
+<text x="1224" y="1165.1" font-family="Arial, sans-serif" font-size="17" fill="#111">Пользователь работает со своим сеансом; администратор может управлять любым и отдельно</text>
+<text x="1224" y="1186.86" font-family="Arial, sans-serif" font-size="17" fill="#111">управляет аккаунтами / ролями.</text>
+<text x="1224" y="1208.62" font-family="Arial, sans-serif" font-size="17" fill="#111"></text>
+<text x="1224" y="1230.3799999999999" font-family="Arial, sans-serif" font-size="17" fill="#111">Настройки здания и лифтов меняются только до первого старта. До 20 этажей и 5 лифтов;</text>
+<text x="1224" y="1252.1399999999999" font-family="Arial, sans-serif" font-size="17" fill="#111">высота этажа 3 м, параметры и начальные позиции индивидуальные.</text>
+<text x="1224" y="1273.8999999999999" font-family="Arial, sans-serif" font-size="17" fill="#111"></text>
+<text x="1224" y="1295.6599999999999" font-family="Arial, sans-serif" font-size="17" fill="#111">Торможение, двери, посадка и высадка мгновенные.</text>
+<rect x="580.5" y="421.51" width="39.0" height="20.48" fill="white"/>
+<text x="583.5" y="439.51" font-family="Arial, sans-serif" font-size="16" fill="#111">[нет]</text>
+<rect x="549.0" y="482.76" width="32.0" height="20.48" fill="white"/>
+<text x="552.0" y="500.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[да]</text>
+<rect x="575.5" y="732.76" width="39.0" height="20.48" fill="white"/>
+<text x="578.5" y="750.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[нет]</text>
+<rect x="804.0" y="807.76" width="32.0" height="20.48" fill="white"/>
+<text x="807.0" y="825.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[да]</text>
+<rect x="490.5" y="850.7602906972813" width="39.0" height="20.48" fill="white"/>
+<text x="493.5" y="868.7602906972813" font-family="Arial, sans-serif" font-size="16" fill="#111">[нет]</text>
+<rect x="580.5" y="1169.01" width="39.0" height="20.48" fill="white"/>
+<text x="583.5" y="1187.01" font-family="Arial, sans-serif" font-size="16" fill="#111">[нет]</text>
+<rect x="804.0" y="1255.26" width="32.0" height="20.48" fill="white"/>
+<text x="807.0" y="1273.26" font-family="Arial, sans-serif" font-size="16" fill="#111">[да]</text>
+<rect x="1041.949730371369" y="879.9423339325081" width="32.0" height="20.48" fill="white"/>
+<text x="1044.949730371369" y="897.9423339325081" font-family="Arial, sans-serif" font-size="16" fill="#111">[да]</text>
+<rect x="1059.0" y="1614.01" width="32.0" height="20.48" fill="white"/>
+<text x="1062.0" y="1632.01" font-family="Arial, sans-serif" font-size="16" fill="#111">[да]</text>
+<rect x="1353.0" y="1685.26" width="39.0" height="20.48" fill="white"/>
+<text x="1356.0" y="1703.26" font-family="Arial, sans-serif" font-size="16" fill="#111">[нет]</text>
+<rect x="800.5" y="1717.76" width="39.0" height="20.48" fill="white"/>
+<text x="803.5" y="1735.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[нет]</text>
+<rect x="1258.0020831886775" y="1822.76" width="32.0" height="20.48" fill="white"/>
+<text x="1261.0020831886775" y="1840.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[да]</text>
+<rect x="800.5" y="1927.76" width="39.0" height="20.48" fill="white"/>
+<text x="803.5" y="1945.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[нет]</text>
+<rect x="1059.0" y="2034.01" width="32.0" height="20.48" fill="white"/>
+<text x="1062.0" y="2052.01" font-family="Arial, sans-serif" font-size="16" fill="#111">[да]</text>
+<rect x="800.5" y="2142.76" width="39.0" height="20.48" fill="white"/>
+<text x="803.5" y="2160.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[нет]</text>
+<rect x="1064.0" y="2257.76" width="32.0" height="20.48" fill="white"/>
+<text x="1067.0" y="2275.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[да]</text>
+<rect x="730.5" y="2377.76" width="179.0" height="20.48" fill="white"/>
+<text x="733.5" y="2395.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[нет: событие времени]</text>
+<rect x="600.5" y="2547.76" width="39.0" height="20.48" fill="white"/>
+<text x="603.5" y="2565.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[нет]</text>
+<rect x="1000.5" y="2492.76" width="32.0" height="20.48" fill="white"/>
+<text x="1003.5" y="2510.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[да]</text>
+<rect x="1398.0" y="2837.76" width="39.0" height="20.48" fill="white"/>
+<text x="1401.0" y="2855.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[нет]</text>
+<rect x="1133.0" y="3237.76" width="39.0" height="20.48" fill="white"/>
+<text x="1136.0" y="3255.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[нет]</text>
+<rect x="1549.0" y="3167.76" width="32.0" height="20.48" fill="white"/>
+<text x="1552.0" y="3185.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[да]</text>
+<rect x="1774.0" y="2837.76" width="32.0" height="20.48" fill="white"/>
+<text x="1777.0" y="2855.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[да]</text>
+<rect x="1678.1499508867291" y="1615.105340946298" width="32.0" height="20.48" fill="white"/>
+<text x="1681.1499508867291" y="1633.105340946298" font-family="Arial, sans-serif" font-size="16" fill="#111">[да]</text>
+<rect x="103.87499999999991" y="4177.76" width="32.0" height="20.48" fill="white"/>
+<text x="106.87499999999991" y="4195.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[да]</text>
+<rect x="413.0" y="4177.76" width="39.0" height="20.48" fill="white"/>
+<text x="416.0" y="4195.76" font-family="Arial, sans-serif" font-size="16" fill="#111">[нет]</text>
+</svg>
